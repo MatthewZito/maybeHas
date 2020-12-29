@@ -1,0 +1,24 @@
+{
+  "name": "maybeHas",
+  "version": "1.0.0",
+  "description": "Check infinitely nested object properties in a single go",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "utility library",
+    "prop checking",
+    "nested objects",
+    "micro-libraries",
+    "utility function",
+    "binary function",
+    "monad",
+    "functional programming"
+  ],
+  "author": "Matthew Zito <matthewtzito@gmail.com> (goldmund)",
+  "license": "MIT"
+}
